@@ -18,7 +18,7 @@
             </span>
         </div>
     </div>
-    <div class="main_img">dfdf
+    <div class="main_img">
         <div class="img_size">
             <div>
                 <p class="text">WELCOME</p><br>
