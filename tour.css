@@ -1,0 +1,86 @@
+.navleft{
+    margin-left: 30px;
+}
+.navright{
+    margin-right: 30px;
+}
+/* #p{
+    position: fixed;
+} */
+
+.navclr{
+    background-color: rgb(70, 67, 67);
+}
+a:hover{
+    background-color:rgb(60, 60, 60);
+    color: black;
+}
+.main_img{
+    background-image: url('game/battlegrounds-.avif');
+}
+.reg_img{
+    background-image: url('game/bgmi2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.log_img{
+    background-image: url('game/bg4.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.detail_img{
+    background-image: url('game/bg5.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img_size{
+    height: 650px;
+    width: 100%;
+    object-fit: cover; 
+}
+.text{
+    height: 300px;
+    width: 34%;
+    float: right;
+    position: relative;
+    color: aliceblue;
+    right: -118px;
+    font-size: 63px;
+    font-family: fantasy;
+    top: 185px;
+}
+.d{
+    height: 126px;
+    width: 34%;
+    float: right;
+    position: relative;
+    color: aliceblue;
+    left: 510px;
+    font-size: 63px;
+    font-family: fantasy;
+    top: 233px;
+}
+.dloginbtn{
+    height: 42px;
+    width: 41%;
+    position: relative;  
+    left: 142px;
+}
+.reg{
+    position: relative;
+    top: 430px;
+    left: 1204px;
+}
+.detail{
+    height: 390px;
+    width: 40%;  
+    background-color: aquamarine;
+    margin-top: 190px;
+    margin-left: 28px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 28px;
+}
