@@ -21,9 +21,11 @@
     <div class="main_img">
         <div class="img_size">
             <div>
+            <p class="text">TOURNAMENT CLOSED</p><br>
+
                 <p class="text">WELCOME</p><br>
                 <p class="d">
-                    TO THE TOURNAMENT
+                 
                     
                         <a href="login_form.php" class="btn btn-primary dloginbtn">Login </a>   
                    
